@@ -1,0 +1,25 @@
+.row-a {
+  text-align: center;
+  margin-top: 50px;
+}
+div.ip6{
+  background-color: aqua;
+  text-align: left;
+}
+#ff4c68
+.ip7{
+  margin-left: 70%;
+  width: 25%;
+  height: 500px;
+  padding-bottom: 50px;
+}
+.cun{
+  background-color: brown;
+  padding: 100px;
+
+}
+@media (max-width: 900px) {
+  h2{
+    color: red;
+  }
+}
